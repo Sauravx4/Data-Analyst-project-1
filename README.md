@@ -1,5 +1,5 @@
 ## 🌐 Portfolio
-👉 (https://sauravx4.github.io/SM-portfolio)
+👉 https://sauravcodease.vercel.app
 # 🧠 Customer Behaviour Analysis
 
 A complete **Data Analytics Project** focused on understanding **customer behaviour** through data exploration, cleaning, analysis, and visualization using **Python, SQL, Power BI, and Excel**.
